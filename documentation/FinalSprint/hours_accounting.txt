@@ -1,0 +1,26 @@
+Kaitlyn Clements
+  12/02: .5 hours- Organizing github and uploading proper references for final sprint. 
+  12/07: 1.5 hours- Fetching First Name, Last Name, and Email for users for print screen, had to debug a few times to get correct Trip Management page from changes. 
+  12/08: 1 hour- Writing up outline for presentation video, filming presentation video
+  Total Hours: 3
+  
+Taylor Slade
+  12/7: 3 hours - share and collaborate on trips functionality added
+  Total Hours: 3
+  
+Sam Muelehbach
+  12/3: 3 hours- Tied trip and activity creation to the Google Maps API
+  Total Hours: 3 hours
+  
+Aaditi Chinawalker
+  12/7: 1 hour- Testing new functionalities added
+  12/7: 1 hour - debugging and attempting to add PDF functionality
+  12/8: 1 hour - making presentation video
+  Total Hours: 3
+  
+Lizzie Soltis
+  12/3: 2 hours - Debugging and trying to implement export itinerary PDF functionality
+  12/7: 4 hours - Print/PDF button functionality added
+  Total Hours: 6 hours
+
+Total Hours for group: 12.5 hours

@@ -1,0 +1,34 @@
+Kaitlyn Clements: 
+  10/29: 2 hours- Trying to implement a first&last name feature when registering, but having issues with databse and data sending to/from front end and backend
+  10/30: 1 hour- Successfully implemented first & last name features to users that gets filled out when they register, and is saved to the database. 
+11/07: 2 hours- created activities database table, activity_controller.py, Updated ItineraryManager.jsx in frontend to handle tables, testing and debugging all the issues when I did this. 
+  Trying to link specific individual itinerary objects to each individual trip object. *Note: I didn't upload these files to github since I haven't worked out all the kinks yet. 
+11/09: 3 hours- Trying to create a specific itinerary object for each trip created. Haven't had any luck with getting this to work while maintaining functionality. 
+11/10: 1 hours- Still trying to link specific itinerary pages to each trip. When user clicks link, they are taken to the URL, but the page doesn't change. Didn't upload because it took away base itinerary functionality. 
+11/10: 1 hour- Rewriting and redetermining requirements to make sense after evaluating teams performance and skill set. Distinguishing specific differences between certain requirements that overlap. 
+    Total: 10 hours
+    
+Taylor Slade: 
+  11/5: 1 hour linking trips to specific user_ids, displaying trips only when user is logged in
+  11/6: 1 hour fixing/debugging registration feature
+  11/7: 2 hours testing and attempting to fix the delete trip feature (resolved some issues but still getting errors)
+  11/8: 1 hour fixed trip deletion feature, worked on creating table for activities and itineraries
+  11/10: 3 hours re-linking trips to user_ids, creating view profile feature
+  Total: 8 hours
+    
+Sam Muehlebach: 
+  11/7: 2.5 hours of implementing functionality for deleting trips and activities from the itinerary
+  11/10: 2 hours of testing sprint 2 requirements and developing sprint 3 requirements artifacts
+  Total: 4.5 hours
+    
+Lizzie Soltis: 
+  11/9: 2 hours testing add activity 
+  11/10: 4 hours implementing and debugging add/delete activity & trip management, linking trips & activities
+  Total: 6 hours
+    
+Aaditi Chinawalker: 
+  11/7: 2.5 hours debugging trip deletion and attemmpting creation of activities database table
+  11/10: 3 hours debugging delete activity and attempting profile update option
+  Total: 5.5 hours
+
+Total Hours: 25.5

@@ -1,0 +1,29 @@
+Kaitlyn Clements
+	11/11: 1 hour- Created github sprint 3 folder and files, wrote up requirements and drew out requirements for what application should look like
+	11/13: 1 hour- Created document containing all of the main files' descriptions that we may need to use to implement certain requirements and functionality. Makes it easier to visualize and keep track of what files need to be edited for a particular task. 
+	11/13: 1 hour- Added a basic budget field feature to trips when they are created. 
+	11/13: 4 hours- Created Budget page from Navbar, successfully implemented basic budget field, expense log, and expense summary breakdown. 
+  Total: 7 hours
+
+Taylor Slade
+    11/11: 1 hour - resolved travelmate.db conflicts, drop down menu for activity creation, profile management updates
+    11/13: 2 hours - sorted activities by date and time, display activities in itinerary tab, user-friendly display of dates, no activity creation outside trip date range
+    11/17: 2 hours - experimenting and trying out different webpage styling to improve user experience and appearance
+    11/24: 1 hour - updating requirements stack and final sprint user stories/requirements artifacts
+  Total:  6 hours
+
+Sam Muehlebach
+	11/14: 2 hours- Researching Google Maps API behavior and implementing the API into the trips and itinerary pages
+  Total: 2 hours
+
+Lizzie Soltis
+    
+  11/24: 2 hours - Edit activity functionality debugging & testing
+
+Aaditi Chinawalker
+  11/14: 0.5 hours - Testing Google API functionality
+  11/24: 2.5 hours - Adding edit activity functionality 
+    
+  Total: 0 hours
+
+Total hours: 17

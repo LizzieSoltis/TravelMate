@@ -1,0 +1,28 @@
+SPRINT 1 HOURS: 
+
+Kaitlyn Clements: 
+  10/21- 4 hours: creating & organizing github, writing first initial layer for front-end, back-end, and database layers
+  10/23 - 1 hour: trying to setup and run backend files
+  10/27 - 2 hours: Debugging and running backend/front end, solving errors that were preventing from running
+  Total: 7 hours
+
+Sam Muehlebach:
+  10/22- 4 hours: Perfecting and debugging database and backend layers, initializing frontend with simple HTML file, and tying it to 
+  backend/database layers
+  Total: 4 hours
+
+  Elizabeth Sotlis:
+  10/22 - 1.5 hrs: setting up project and adding front end
+  10/23 - 1.5 hrs: adding react-router-dom, fixing navbar, and adding styling and .jsx files
+  Total: 3 hours
+
+Taylor Slade:
+  10/24 - 1 hour: testing and setting up project
+  10/27 - 4 hours: implementing itinerary feature
+  Total: 5 hours
+
+Aaditi Chinawalkar
+  10/24 - 1 hour: Testing backend functionality
+  10/27 - 1.5 hours: Testing and debugging backend and frontend errors revolving compilation
+  Total: 2.5 hours
+Total hours: 21.5 hours
