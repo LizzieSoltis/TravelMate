@@ -1,3 +1,4 @@
+Developers: Elizabeth Soltis, Aaditi Chinawalkar, Taylor Slade, Kaitlyn Clements, Same Meuhelbach
 1. Directory Structure
   TravelMate/
 │
